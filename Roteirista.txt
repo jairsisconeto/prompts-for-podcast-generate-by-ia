@@ -1,0 +1,82 @@
+Roteirista
+
+Nome do podcast:
+
+Prompt:
+Você é um roteirista de um podcast e vamos criar um podcast de varejo, focado em minimercado e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de varejo feito por gerentes e que tenha algum trocadilho varejo no nome.
+
+O podcast vai falar sobre dicas e novidades sobre o mundo do varejo e o que está acontecendo no mercado
+
+{REGRAS}
+* O nome deve ser enxuto, um nome e um subtítulo
+* O nome tenha algum trocadilho varejo com nomes de franquias conhecidas como americanas, pão de açúcar
+* O nome deve conter alguma palavra forte que remeta a varejo
+
+{REGRAS NEGATIVAS}
+* Não quero que o nome contenha palavras em inglês.
+* Não quero que utilize nenhuma das palavras desta lista: americanas, pão de açúcar
+
+Resposta: Check-out da Notícia: A sua dose diária de varejo
+
+--------------------------------------------
+
+Podcast
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de varejo, focado em minimercado cujo o nome é "Check-out da Notícia: A sua dose diária de varejo" e tem foco em varejo, com o público alvo de iniciantes em minimercado.
+
+o formato do roteiro deve ser:
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+{REGRAS}
+
+* no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Leandro Rosadas', como se fossem escritos pelo Leandro   
+
+* no bloco [CURIOSIDADE 1] substitua por uma curiosidade de varejo   
+
+* no bloco [CURIOSIDADE 2] sobre uma ferramenta para minimercado
+
+* no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Jair e esse foi o check-out dessa semana'   
+
+* use termos de fácil explicação
+
+* O podcast vai ser apresentado somente por uma pessoa, chamada Jair   
+
+* O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+--
+[RESPOSTA]
+
+* Não use muitos termos técnicos
+* Não ultrapasse 5 minutos de duração
+
+[Roteiro do Podcast "Check-out da Notícia: A sua dose diária de varejo" - Episódio 1
+Introdução (no estilo Leandro Rosadas)]
+
+E aí, galera do varejo! Tudo tranquilo? Se você está começando agora no mundo dos minimercados, ou se já tá nessa jornada há um tempo e quer turbinar seus resultados, esse podcast é pra você! Eu sou o Jair, e aqui no Check-out da Notícia a gente vai te entregar aquela dose diária de varejo que você precisa pra mandar bem no seu negócio.
+
+Imagina só você, dono de um minimercado, tomando as decisões certas, aumentando suas vendas e conquistando cada vez mais clientes. Parece bom, né? Então, prepara aí o seu cafezinho e vamos juntos desvendar os segredos do varejo!
+
+[Curiosidade 1: A importância do layout na experiência do cliente]
+
+Você já parou pra pensar que o layout da sua loja pode influenciar diretamente nas vendas? É isso mesmo! A forma como você organiza os produtos, a iluminação e até mesmo as cores das paredes fazem toda a diferença na hora de atrair e encantar os clientes.
+
+Um estudo mostrou que consumidores tendem a passar mais tempo e gastar mais dinheiro em lojas com um layout bem pensado. Isso acontece porque um ambiente agradável e organizado passa a sensação de confiança e qualidade, além de facilitar a busca pelos produtos.
+
+[Curiosidade 2: Ferramenta: Planilhas de controle de estoque]
+
+Uma ferramenta indispensável para qualquer minimercado é a planilha de controle de estoque. Com ela, você consegue acompanhar a entrada e saída de produtos, identificar quais estão em falta e quais estão com estoque alto, além de evitar perdas por vencimento.
+
+Existem diversas planilhas prontas disponíveis na internet, mas você também pode criar a sua própria, adaptando-a às suas necessidades. O importante é ter um controle preciso do seu estoque para garantir que você sempre tenha os produtos que seus clientes mais procuram.
+
+[Finalização]
+
+E aí, curtiu as dicas de hoje? Lembra, um bom layout e um controle eficiente do estoque são fundamentais para o sucesso do seu minimercado.
+
+Se você gostou desse episódio, não esquece de se inscrever no nosso canal e compartilhar com seus amigos. E se tiver alguma dúvida, deixa aqui nos comentários que a gente te ajuda!
+
+Eu sou Jair e esse foi o check-out dessa semana. Até a próxima!
